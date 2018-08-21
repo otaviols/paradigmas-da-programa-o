@@ -1,0 +1,9 @@
+Configuring http-conduit-2.3.2...
+Preprocessing library for http-conduit-2.3.2..
+Building library for http-conduit-2.3.2..
+[1 of 3] Compiling Network.HTTP.Client.Conduit ( Network\HTTP\Client\Conduit.hs, .stack-work\dist\7d103d30\build\Network\HTTP\Client\Conduit.o )
+[2 of 3] Compiling Network.HTTP.Conduit ( Network\HTTP\Conduit.hs, .stack-work\dist\7d103d30\build\Network\HTTP\Conduit.o )
+[3 of 3] Compiling Network.HTTP.Simple ( Network\HTTP\Simple.hs, .stack-work\dist\7d103d30\build\Network\HTTP\Simple.o )
+ignoring (possibly broken) abi-depends field for packages
+Installing library in C:\sr\snapshots\e374d6ae\lib\x86_64-windows-ghc-8.4.3\http-conduit-2.3.2-D3w24Ds235eLhfbGV5ezdV
+Registering library for http-conduit-2.3.2..

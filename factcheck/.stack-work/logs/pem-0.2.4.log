@@ -1,0 +1,10 @@
+Configuring pem-0.2.4...
+Preprocessing library for pem-0.2.4..
+Building library for pem-0.2.4..
+[1 of 4] Compiling Data.PEM.Types   ( Data\PEM\Types.hs, .stack-work\dist\7d103d30\build\Data\PEM\Types.o )
+[2 of 4] Compiling Data.PEM.Parser  ( Data\PEM\Parser.hs, .stack-work\dist\7d103d30\build\Data\PEM\Parser.o )
+[3 of 4] Compiling Data.PEM.Writer  ( Data\PEM\Writer.hs, .stack-work\dist\7d103d30\build\Data\PEM\Writer.o )
+[4 of 4] Compiling Data.PEM         ( Data\PEM.hs, .stack-work\dist\7d103d30\build\Data\PEM.o )
+ignoring (possibly broken) abi-depends field for packages
+Installing library in C:\sr\snapshots\e374d6ae\lib\x86_64-windows-ghc-8.4.3\pem-0.2.4-9CVyKjKTQFCFMT7pyH6ATX
+Registering library for pem-0.2.4..
